@@ -6,5 +6,6 @@
 | 3   | inferential_statistics_exercise_1_RG.ipynb | human_body_temperature.csv | An inferential statistics exercise |
 | 4   | inferential_statistics_exercise_2_RG.ipynb | us_job_market_discrimination.dta | An inferential statistics exercise |
 | 5   | SQL Training-Yammer_RG.ipynb | https://community.modeanalytics.com/sql/tutorial/a-drop-in-user-engagement/ | An SQL training|
-| 6   |  	SQL formatting_RG.ipynb | http://www.dpriver.com/pp/sqlformat.htm | The different ways to format an SQL query on jupyter notebook |
+| 6   | SQL formatting_RG.ipynb | http://www.dpriver.com/pp/sqlformat.htm | The different ways to format an SQL query on jupyter notebook |
+| 7   | capstone_project1 | NIST_chemicals_list.csv & NIST_periodic_table.txt | capstone project1 data wrangling exercise | 
 
