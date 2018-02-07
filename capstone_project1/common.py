@@ -97,6 +97,7 @@ def shorten_df_by_elements_list(df_el, elements_list, all_or_any):
     """
     df_el_filt=pd.DataFrame()
     
+    print('Work in progress. Please wait...')
     if all_or_any=='all':
         #create an empty pandas DataFrame 
 
@@ -106,7 +107,7 @@ def shorten_df_by_elements_list(df_el, elements_list, all_or_any):
             if set(item[1])==set(elements_list):
                 #Add to dataframe
                 df_el_filt=pd.concat([df_el_filt,df_el[df_el.index==item[0]]]) #when appending to a DataFrame, remember to reassign!
-                print(df_el[df_el.index==item[0]])
+                #print(df_el[df_el.index==item[0]])
     else:
         #2. Search for any elements in the list 
         ##df_el_filt=filter_by_elements(df_el,elements_list)
@@ -114,8 +115,9 @@ def shorten_df_by_elements_list(df_el, elements_list, all_or_any):
         for item in df_el.Elements.iteritems(): #if a subset of elements_list, append to the new DataFrame
             if set(item[1]).issubset(elements_list):
                 df_el_filt=pd.concat([df_el_filt,df_el[df_el.index==item[0]]]) #when appending to a DataFrame, remember to reassign!
-                print(df_el[df_el.index==item[0]])
-        
+                #print(df_el[df_el.index==item[0]])
+    
+    print('Work is completed. ')    
     return df_el_filt
 
 def calc_molec_weight(nist_chem_list, periodic_table):
