@@ -8,4 +8,6 @@
 | 5   | SQL Training-Yammer_RG.ipynb | https://community.modeanalytics.com/sql/tutorial/a-drop-in-user-engagement/ | An SQL training|
 | 6   | SQL formatting_RG.ipynb | http://www.dpriver.com/pp/sqlformat.htm | The different ways to format an SQL query on jupyter notebook |
 | 7   | capstone_project1_data_wrangling.ipynb | NIST_chemicals_list.csv & NIST_periodic_table.txt | capstone project1 data wrangling exercise | 
+| 8   | capstone_project1_inferential statistics | NIST_chemicals_list_organic & common.py | capstone project1 inferential statistics exercise |
+| 9   | inferential_statistics_exercise_3      | cms_hospital_readmissions.csv |An inferential statistics exercise |
 
