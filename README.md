@@ -12,3 +12,4 @@
 | 9   | inferential_statistics_exercise_3      | cms_hospital_readmissions.csv |An inferential statistics exercise |
 | 10  | Mini_Project_Linear_Reg.ipynb | Boston housing (https://archive.ics.uci.edu/ml/datasets/Housing) | A linear regression exercise | 
 | 11  | Mini_Project_Clustering.ipynb | WineKMC.xlsx | An unsupervised learning exercise on clustering |
+| 12  | Mini_Project_Naive_Bayes.ipynb | critics.csv | An exercise on basic text classification |
