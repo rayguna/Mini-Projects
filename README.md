@@ -15,3 +15,4 @@
 | 12  | Mini_Project_Clustering.ipynb | WineKMC.xlsx | An unsupervised learning exercise on clustering |
 | 13  | naive_bayes/Mini_Project_Naive_Bayes.ipynb | critics.csv | An exercise on basic text classification |
 | 14  | relax_challenge/relax_data_science_challenge.ipynb | takehome_user_engagement.csv and takehome_users.csv | A take home challenge exercise |
+| 15  | ultimate_challenge/ultimate_data_science_challenge.ipynb | logins.json and ultimate_data_challenge.json | A take home challenge exercise |
